@@ -18,3 +18,6 @@ def get_ful_name():
 
 def call_cron_fn():
     pass
+
+def new_dev_fn():
+    pass
