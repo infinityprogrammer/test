@@ -14,3 +14,6 @@ def get_develop_name():
 
 def get_ful_name():
     pass
+
+def call_cron_fn():
+    pass
