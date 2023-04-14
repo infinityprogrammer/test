@@ -17,5 +17,8 @@ def get_ful_name():
     pass
 
 def call_cron_fn():
+    pass
+
+def new_dev_fn():
     # this need to be merge in devlop
     pass
